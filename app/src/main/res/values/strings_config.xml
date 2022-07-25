@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <!-- PLEASE KEEP THIS App ID IN SAFE PLACE -->
+    <!-- Get your own App ID at https://dashboard.agora.io/ -->
+    <!-- After you entered the App ID, remove <##> outside of Your App ID -->
+    <string name="app_id">aca217b533c048aebee698e42c03bfb8</string>
+<!--    <string name="app_id">6213cb2f0a5445d6a029e91a32dce492</string>-->
+    <!-- Obtain a temp Access Token at https://dashboard.agora.io -->
+    <!-- You will need to deploy your own token server for production release -->
+    <!-- Leave this value empty if Security keys/Token is not enabled for your project -->
+    <string name="agora_access_token">006aca217b533c048aebee698e42c03bfb8IAB3hxqPB2nFuwhAa3+fbXFmQh1R614lxAxcTEbQ3gqqOBR6uB0AAAAAEAAtDEjTdmPgYgEAAQB2Y+Bi</string>
+</resources>
